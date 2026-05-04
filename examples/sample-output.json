@@ -1,0 +1,35 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Retrieval-augmented_generation",
+    "title": "Retrieval-augmented generation",
+    "description": null,
+    "author": null,
+    "publishedAt": null,
+    "language": "en",
+    "wordCount": 2337,
+    "text": "Retrieval-augmented generation (RAG) is a technique that grants generative artificial intelligence models information retrieval capabilities...",
+    "scrapedAt": "2026-05-04T15:03:18.733Z"
+  },
+  {
+    "url": "https://blog.apify.com/web-scraping-report-2026/",
+    "title": "State of web scraping report 2026",
+    "description": "An overview of where web scraping stands in 2026, the dominant tools, and the legal landscape.",
+    "author": null,
+    "publishedAt": "2026-04-01T00:00:00Z",
+    "language": "en",
+    "wordCount": 451,
+    "text": "Welcome to the 2026 edition of the state of web scraping report. This year we surveyed over 1,200 developers and engineering teams...",
+    "scrapedAt": "2026-05-04T15:03:16.421Z"
+  },
+  {
+    "url": "https://docs.python.org/3/tutorial/introduction.html",
+    "title": "3. An Informal Introduction to Python",
+    "description": null,
+    "author": null,
+    "publishedAt": null,
+    "language": "en",
+    "wordCount": 2956,
+    "text": "In the following examples, input and output are distinguished by the presence or absence of prompts (>>> and ...): to repeat the example...",
+    "scrapedAt": "2026-05-04T15:03:14.090Z"
+  }
+]
