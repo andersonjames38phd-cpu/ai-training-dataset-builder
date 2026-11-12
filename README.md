@@ -246,6 +246,7 @@ For visitors who arrived here from search: this tool is also referred to as a **
 
 - Open an issue on this repo for bug reports — please include the failing URL
 - Actor page on Apify: [apify.com/Turboextract/ai-training-dataset-builder](https://apify.com/Turboextract/ai-training-dataset-builder)
+- Community Discord: [discord.gg/8SrXSCpvgj](https://discord.gg/8SrXSCpvgj) - updates, support and feature requests
 - Maintained by [Turboextract](https://apify.com/Turboextract) on the Apify platform
 
 ## License
